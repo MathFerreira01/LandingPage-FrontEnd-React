@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body-header {
+  background: url(/src/assets/Banner_3\ 1.png) no-repeat center center;
+  background-size: cover;
+  width: auto;
+  height: 630px;
+  left: 0px;
+  top: 0px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+.logo {
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: black;
+  height: 8vh;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+}
+
+.nav-list li {
+  letter-spacing: 3px;
+  margin-left: 32px;
+}
+
+.first-title {
+  position: absolute;
+  width: 348.69px;
+  height: 43.05px;
+  left: 103.98px;
+  top: 177px;
+}
+
+.first-title h4 {
+  font-family: Playfair Display;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 32.5627px;
+  line-height: 43px;
+
+  color: #be9667;
+}
+
+.second-title {
+  position: absolute;
+  width: 404.18px;
+  height: 119.58px;
+  left: 98px;
+  top: 198.52px;
+}
+
+.second-title h2 {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 90.0346px;
+  line-height: 120px;
+
+  text-transform: uppercase;
+
+  color: rgba(2, 75, 104, 0.68);
+}
+
+.third-title {
+  position: absolute;
+  width: 289px;
+  height: 43px;
+  left: 214px;
+  top: 303px;
+}
+
+.third-title h4 {
+  font-family: Playfair Display;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 32.5627px;
+  line-height: 43px;
+
+  color: #be9667;
+}
+
+.div-text {
+  position: absolute;
+  width: 438px;
+  height: 93px;
+  left: -114px;
+  top: 104px;
+}
+
+.div-text p {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 131%;
+
+  text-transform: uppercase;
+
+  color: #e5e5e5;
+}
+
+.button-header {
+  position: absolute;
+  height: 50px;
+  width: 330px;
+  top: 230px;
+  left: -114px;
+
+  background: #014561;
+}
+
+.button-header a {
+  position: absolute;
+  width: 219px;
+  height: 22px;
+  left: calc(50% - 219px / 2 + 1px);
+  top: calc(50% - 22px / 2);
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 22px;
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #e5e5e5;
+}

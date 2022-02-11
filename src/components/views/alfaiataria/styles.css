@@ -1,0 +1,107 @@
+.alfaiataria-title {
+  position: absolute;
+  left: 170px;
+  top: 3086px;
+}
+
+.alfaiataria-title h1 {
+  font-family: Cormorant;
+  font-size: 62px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 75px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  color: #014561;
+}
+
+.alfaiataria-sub-title {
+  position: absolute;
+  left: 189px;
+  top: 3156px;
+}
+
+.alfaiataria-sub-title p {
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  color: #c4c4c4;
+}
+
+.alfaiataria-info {
+  position: absolute;
+  left: 170px;
+  top: 3206px;
+}
+
+.alfaiataria-info li {
+  font-family: Cormorant;
+  font-size: 20px;
+  line-height: 29px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  color: #727272;
+}
+
+.alfaiataria-info2 {
+  position: absolute;
+  left: 440px;
+  top: 3205px;
+}
+
+.alfaiataria-info2 li {
+  font-family: Cormorant;
+  font-size: 20px;
+  line-height: 29px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  color: #727272;
+}
+
+.alfaiataria-btnn {
+  position: absolute;
+  height: 50px;
+  width: 330px;
+  top: 3321px;
+  left: 168px;
+
+  background: #014561;
+}
+
+.alfaiataria-btnn a {
+  position: absolute;
+  width: 165px;
+  height: 22px;
+  left: calc(50% - 165px / 2 + 0.5px);
+  top: calc(50% - 22px / 2);
+
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+
+  color: #e5e5e5;
+}
+
+.alfaiataria-image img {
+  position: absolute;
+  left: 678px;
+  top: 2973px;
+}

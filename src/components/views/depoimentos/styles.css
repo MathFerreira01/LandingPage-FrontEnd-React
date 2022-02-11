@@ -1,0 +1,77 @@
+.background-depoimentos {
+}
+
+.depoimentos-title {
+  position: absolute;
+  left: 586px;
+  top: 3658px;
+}
+
+.depoimentos-title h1 {
+  font-family: Cormorant;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 46px;
+  letter-spacing: 0em;
+  text-align: center;
+
+  color: #0f0101;
+}
+
+.depoimentos-text {
+  position: absolute;
+  
+  top: 3894px;
+}
+
+.depoimentos-text p {
+  font-family: Cormorant;
+  font-size: 23px;
+  font-style: italic;
+  font-weight: 300;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: center;
+
+  color: #c4c4c4;
+}
+
+.depoimentos-nome {
+  position: absolute;
+  text-align: center;
+  top: 4032px;
+  left: 602px;
+}
+
+.depoimentos-nome p {
+  font-family: Cormorant;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+
+  color: #be9667;
+}
+
+.depoimentos-profissao {
+  position: absolute;
+  text-align: center;
+  top: 4059px;
+  left: 535px;
+  margin-top: 3px;
+}
+
+.depoimentos-profissao p {
+  font-family: Lato;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: center;
+
+  color: #949494;
+}

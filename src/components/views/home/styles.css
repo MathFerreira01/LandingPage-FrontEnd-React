@@ -1,0 +1,179 @@
+.image {
+  position: absolute;
+  width: 371px;
+  height: 438px;
+  left: 90px;
+  top: 720px;
+
+  background: url(/src/assets/depositphotos_194623744-stock-photo-handsome-tailor-standing-crossed-arms\ 1.png);
+}
+
+.div-title {
+  position: absolute;
+  left: 0px;
+  top: -120px;
+}
+
+.div-title h4 {
+  font-family: Cormorant;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 38px;
+  line-height: 46px;
+}
+
+.text {
+  position: absolute;
+  width: 700px;
+  height: 135px;
+  left: 568px;
+  top: 779px;
+}
+
+.text p {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 141.3%;
+}
+
+.text-second {
+  position: absolute;
+  width: 678px;
+  height: 102px;
+  left: 568px;
+  top: 941px;
+}
+
+.text-second p {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 141.3%;
+
+  color: #1c86a4;
+}
+
+.home-btnn {
+  position: absolute;
+  height: 50px;
+  width: 330px;
+  top: 1071px;
+  left: 568px;
+
+  background: #014561;
+}
+
+.home-btnn a {
+  position: absolute;
+  width: 165px;
+  height: 22px;
+  left: calc(50% - 165px / 2 + 0.5px);
+  top: calc(50% - 22px / 2);
+
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+
+  color: #e5e5e5;
+}
+
+.empresa-introducao {
+  position: absolute;
+  width: 630px;
+  height: 102px;
+  left: 168px;
+  top: 1268px;
+}
+
+.empresa-introducao p {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 141.3%;
+
+  text-align: center;
+
+  color: #828282;
+}
+
+.imagem-background-empresa {
+  position: absolute;
+  width: 905px;
+  height: 360px;
+  left: 148px;
+  top: 1178px;
+
+  background: url(/src/assets/Tailor\ 1.png);
+}
+
+.imagem-advogado-empresa {
+  position: absolute;
+  width: 217.88px;
+  height: 312.92px;
+  left: 885.23px;
+  top: 1189.28px;
+  z-index: 1;
+
+  background: url(/src/assets/advogado2.png);
+  filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.25));
+  transform: rotate(7.42deg);
+}
+
+.segunda-imagem-advogado {
+  position: absolute;
+  width: 313px;
+  height: 360px;
+  left: 1036px;
+  top: 1178px;
+  z-index: 0;
+
+  background-image: url(/src/assets/advogado1.png);
+}
+
+.nome-empresa {
+  position: absolute;
+  width: 135px;
+  height: 40px;
+  left: 415px;
+  top: 1417px;
+}
+
+.nome-empresa p {
+  font-family: Cormorant;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 141%;
+
+  text-align: center;
+
+  color: #014561;
+}
+
+.nome-advogado-empresa {
+  position: absolute;
+  width: 421px;
+  height: 28px;
+  left: 272px;
+  top: 1455px;
+}
+
+.nome-advogado-empresa p {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 141.3%;
+
+  text-align: center;
+
+  color: #be9667;
+}
