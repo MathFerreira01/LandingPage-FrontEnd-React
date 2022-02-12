@@ -3,7 +3,7 @@ import './styles.css'
 
 function Alfaiataria () {
     return (
-        <section>
+        <section className='alfaiataria-body'>
             <div className="alfaiataria-title">
                 <h1>Alfaiataria</h1>
             </div>

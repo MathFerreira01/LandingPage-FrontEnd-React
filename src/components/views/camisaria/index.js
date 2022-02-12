@@ -4,7 +4,7 @@ import Image from '../../../assets/1-0 1.png'
 
 function Camisaria() {
   return (
-    <section>
+    <section className="body-camisaria">
       <div className="title-camisaria">
         <h2>CAMISARIA</h2>
       </div>

@@ -1,0 +1,206 @@
+.contatos-title {
+  position: absolute;
+  height: 46px;
+  width: 123px;
+  left: 622px;
+  top: 4253px;
+}
+
+.contatos-title h1 {
+  font-family: Cormorant;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 46px;
+  letter-spacing: 0em;
+  text-align: center;
+
+  color: #1c86a4;
+}
+
+.contatos-telefones {
+  position: absolute;
+  height: 22px;
+  width: 161px;
+  left: 198px;
+  top: 4350px;
+}
+
+.contatos-telefones p {
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  color: #1c86a4;
+}
+
+.contatos-numero {
+  position: absolute;
+  height: 24px;
+  width: 142px;
+  left: 198px;
+  top: 4380px;
+}
+
+.contatos-numero p {
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  color: #828282;
+}
+
+.contatos-email {
+  position: absolute;
+  height: 22px;
+  width: 161px;
+  left: 198px;
+  top: 4421px;
+}
+
+.contatos-email p {
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  color: #1c86a4;
+}
+
+.contatos-email-empresa {
+  position: absolute;
+  height: 19px;
+  width: 179px;
+  left: 198px;
+  top: 4451px;
+}
+
+.contatos-email-empresa p {
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  color: #828282;
+}
+
+.contatos-info {
+  position: absolute;
+  height: 22px;
+  width: 280px;
+  left: 198px;
+  top: 4582px;
+}
+
+.contatos-info p {
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  color: #1c86a4;
+}
+
+.contatos-btn-esquerdo {
+  position: absolute;
+  height: 50px;
+  width: 270px;
+  left: 198px;
+  top: 4620px;
+  border-radius: 2px;
+
+  border: 1px solid #1c86a4;
+}
+
+.contatos-btn-esquerdo a {
+  position: absolute;
+  width: 92px;
+  height: 22px;
+  left: calc(50% - 92px / 2);
+  top: calc(50% - 22px / 2);
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 22px;
+
+  text-align: center;
+
+  color: #014561;
+}
+
+.contatos-input-nome {
+  position: absolute;
+  height: 42px;
+  width: 600px;
+  left: 598px;
+  top: 4340px;
+  border-radius: 3px;
+}
+
+.contatos-input-email {
+  position: absolute;
+  height: 42px;
+  width: 600px;
+  left: 598px;
+  top: 4405px;
+  border-radius: 0px;
+}
+
+.contatos-input-mensagem {
+  position: absolute;
+  height: 77px;
+  width: 600px;
+  left: 598px;
+  top: 4470px;
+  border-radius: 0px;
+}
+
+.contatos-btn-direito {
+  position: absolute;
+  height: 50px;
+  width: 600px;
+  left: 598px;
+  top: 4620px;
+  border-radius: 2px;
+
+  background: #014561;
+}
+
+.contatos-btn-direito a {
+  position: absolute;
+  width: 137px;
+  height: 22px;
+  left: calc(50% - 137px / 2 + 0.5px);
+  top: calc(50% - 22px / 2);
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 22px;
+
+  text-align: center;
+
+  color: #e5e5e5;
+}
+
+

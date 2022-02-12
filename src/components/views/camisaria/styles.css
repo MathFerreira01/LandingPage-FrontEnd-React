@@ -1,7 +1,19 @@
+.body-camisaria {
+  position: absolute;
+  height: 385px;
+  width: 1011px;
+  left: 258px;
+  top: 2454px;
+  border-radius: 0px;
+
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+}
+
 .title-camisaria {
   position: absolute;
-  left: 770px;
-  top: 2500px;
+  left: 512px;
+  top: 57px;
 }
 
 .title-camisaria h2 {
@@ -18,8 +30,8 @@
 
 .text-camisaria {
   position: absolute;
-  left: 789px;
-  top: 2581px;
+  left: 531px;
+  top: 127px;
 }
 
 .text-camisaria p {
@@ -35,8 +47,8 @@
 
 .informacao-camisaria {
   position: absolute;
-  top: 2631px;
-  left: 770px;
+  top: 177px;
+  left: 512px;
 }
 
 .informacao-camisaria li {
@@ -51,8 +63,8 @@
 
 .segunda-informacao-camisaria {
   position: absolute;
-  top: 2630px;
-  left: 990px;
+  top: 176px;
+  left: 732px;
 }
 
 .segunda-informacao-camisaria li {
@@ -69,8 +81,8 @@
   position: absolute;
   height: 50px;
   width: 330px;
-  top: 2752px;
-  left: 768px;
+  top: 298px;
+  left: 510px;
 
   background: #014561;
 }
@@ -95,7 +107,9 @@
 
 .camisaria-image img {
   position: absolute;
-  left: 168px;
-  top: 2403px;
- 
+  height: 488px;
+  width: 530px;
+  
+  left: -168px;
+  top: -50px;
 }

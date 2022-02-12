@@ -1,13 +1,14 @@
 import "./styles.css";
 
-function Header() {
+import SVG from '../../assets/Vector (6).svg'
+
+function Header({white}) {
   return (
     <div className="body-header">
-      <header>
+      <header className={white ? 'whithe' : ''}>
         <nav>
-          <a class="logo" href="/">
-            LOGO
-          </a>
+          <img className="nav-img" src={SVG} alt=""/>
+          <a class="logo" alt="">Renee<br/>Trajar</a>
           <ul class="nav-list">
             <li>
               <a href="#">Empresa</a>
@@ -26,6 +27,7 @@ function Header() {
             </li>
           </ul>
         </nav>
+        </header>
         <form>
           <div className="first-title">
             <h4>Elegante é ter um</h4>
@@ -46,7 +48,7 @@ function Header() {
               </div>
           </div>
         </form>
-      </header>
+      
 
       <main></main>
     </div>

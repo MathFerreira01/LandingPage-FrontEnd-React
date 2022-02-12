@@ -1,10 +1,19 @@
 .background-depoimentos {
+  position: absolute;
+  height: 608px;
+  width: 1349px;
+  left: 0px;
+  top: 3596px;
+  border-radius: 0px;
+
+  background-image: url(/src/assets/image-depoimentos.jpg);
+  
 }
 
 .depoimentos-title {
   position: absolute;
   left: 586px;
-  top: 3658px;
+  top: 62px;
 }
 
 .depoimentos-title h1 {
@@ -19,10 +28,18 @@
   color: #0f0101;
 }
 
+.depoimentos-image img {
+  position: absolute;
+  left: 627px;
+  top: 161px;
+}
+
 .depoimentos-text {
   position: absolute;
-  
-  top: 3894px;
+  top: 298px;
+  left: 307px;
+  right: 305px;
+  bottom: 186px;
 }
 
 .depoimentos-text p {
@@ -40,7 +57,7 @@
 .depoimentos-nome {
   position: absolute;
   text-align: center;
-  top: 4032px;
+  top: 465px;
   left: 602px;
 }
 
@@ -59,7 +76,7 @@
 .depoimentos-profissao {
   position: absolute;
   text-align: center;
-  top: 4059px;
+  top: 485px;
   left: 535px;
   margin-top: 3px;
 }

@@ -1,0 +1,73 @@
+.footer-logo {
+  position: absolute;
+  width: 1347px;
+  height: 0px;
+  left: 0px;
+  top: 4730px;
+
+  border: 1px solid #be9667;
+}
+
+.footer-logo img {
+  position: absolute;
+  height: 51px;
+  width: 27px;
+  left: 198px;
+  top: 44px;
+  border-radius: 0px;
+}
+
+.footer-name {
+  position: absolute;
+  height: 24.03362274169922px;
+  width: 22.18476104736328px;
+  left: 229.865478515625px;
+  top: 4775px;
+  border-radius: 0px;
+}
+
+.footer-name p {
+  color: black;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+
+.contatos-cnpj {
+  position: absolute;
+  height: 23px;
+  width: 157px;
+  left: 198px;
+  top: 4855px;
+}
+
+.contatos-cnpj p {
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  color: #bdbdbd;
+}
+
+.contato-copyright {
+  position: absolute;
+  height: 23px;
+  width: 426px;
+  left: 778px;
+  top: 4855px;
+}
+
+.contato-copyright p {
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+
+  color: #4f4f4f;
+}

@@ -1,13 +1,17 @@
 import "./styles.css";
 
+import Qualidadesvg from '../../../assets/Vector (3).svg'
+import Confiancasvg from '../../../assets/Vector (4).svg'
+import experienciasvg from '../../../assets/Vector (5).svg'
+
 function Home() {
   return (
     <div>
       <div className="image"></div>
-      <div className="text">
-        <div className="div-title">
+      <div className="div-title">
           <h4>Renee Trajar</h4>
-        </div>
+      </div>
+      <div className="text">
         <p>
           Com mais de 35 anos de experiência em camisas, calças e ternos sob
           medida, possuímos profissionais experientes e altamente qualificados.
@@ -46,6 +50,33 @@ function Home() {
           </div>
           <div className="nome-advogado-empresa">
             <p>Advogado | Nelson Garey Advogados Associados</p>
+          </div>
+          <div className="home-qualidade">
+            <img src={Qualidadesvg} alt=""/>
+          </div>
+          <div className="home-title-qualidade">
+            <h6>Qualidade</h6>
+          </div>
+          <div className="home-text-qualidade">
+            <p>Camisaria e Alfaiataria 100% artesanal.</p>
+          </div>
+          <div className="home-confianca">
+            <img src={Confiancasvg} alt=""/>
+          </div>
+          <div className="home-title-confianca">
+            <h6>Confiança</h6>
+          </div>
+          <div className="home-text-confianca">
+            <p>Atendimento personalizado no escritório ou residência.</p>
+          </div>
+          <div className="home-svg-experiencia">
+            <img src={experienciasvg} alt=""/>
+          </div>
+          <div className="home-title-experiencia">
+            <h6>Experiência</h6>
+          </div>
+          <div className="home-text-experiencia">
+            <p>Tradição e modernidade proporcionando elegância.</p>
           </div>
         </div>
       </form>

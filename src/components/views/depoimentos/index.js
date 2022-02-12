@@ -1,12 +1,16 @@
 import "./styles.css";
 
+import ImagePerfil from '../../../assets/Ellipse 89.png'
+
 function Depoinmentos() {
   return (
     <section className="background-depoimentos">
       <div className="depoimentos-title">
         <h1>Depoimentos</h1>
       </div>
-      <div>imagem</div>
+      <div className="depoimentos-image">
+        <img src={ImagePerfil} alt=""/>
+      </div>
       <div className="depoimentos-text">
         <p>
           “Sou cliente do Renee há uns 12 anos. Nosso primeiro contato foi por

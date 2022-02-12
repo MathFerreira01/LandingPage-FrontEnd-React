@@ -1,7 +1,19 @@
+.alfaiataria-body {
+  position: absolute;
+  height: 385px;
+  width: 1015px;
+  left: 98px;
+  top: 3036px;
+  border-radius: 0px;
+
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+}
+
 .alfaiataria-title {
   position: absolute;
   left: 170px;
-  top: 3086px;
+  top: 50px;
 }
 
 .alfaiataria-title h1 {
@@ -19,7 +31,7 @@
 .alfaiataria-sub-title {
   position: absolute;
   left: 189px;
-  top: 3156px;
+  top: 120px;
 }
 
 .alfaiataria-sub-title p {
@@ -37,7 +49,7 @@
 .alfaiataria-info {
   position: absolute;
   left: 170px;
-  top: 3206px;
+  top: 170px;
 }
 
 .alfaiataria-info li {
@@ -56,7 +68,7 @@
 .alfaiataria-info2 {
   position: absolute;
   left: 440px;
-  top: 3205px;
+  top: 169px;
 }
 
 .alfaiataria-info2 li {
@@ -76,7 +88,7 @@
   position: absolute;
   height: 50px;
   width: 330px;
-  top: 3321px;
+  top: 285px;
   left: 168px;
 
   background: #014561;
@@ -103,5 +115,5 @@
 .alfaiataria-image img {
   position: absolute;
   left: 678px;
-  top: 2973px;
+  top: -50px;
 }
