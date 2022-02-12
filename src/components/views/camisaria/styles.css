@@ -5,6 +5,7 @@
   left: 258px;
   top: 2454px;
   border-radius: 0px;
+  z-index: 1;
 
   border: 1px solid #e5e5e5;
   box-sizing: border-box;
@@ -87,6 +88,11 @@
   background: #014561;
 }
 
+.camisaria-btnn:hover {
+  background-color: #002c3f;
+  transition: all ease 0.3s;
+}
+
 .camisaria-btnn a {
   position: absolute;
   width: 165px;
@@ -105,11 +111,25 @@
   color: #e5e5e5;
 }
 
+.camisaria-image-linha {
+  position: absolute;
+  height: 464px;
+  width: 550px;
+  left: -168px;
+  top: -40px;
+  border-radius: 0px;
+
+  border: 1px solid #1c86a4;
+  background-color: transparent;
+  box-sizing: border-box;
+}
+
 .camisaria-image img {
   position: absolute;
   height: 488px;
   width: 530px;
-  
-  left: -168px;
-  top: -50px;
+
+  left: 8px;
+  top: -14px;
+  z-index: -1;
 }

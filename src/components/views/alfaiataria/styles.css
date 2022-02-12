@@ -5,6 +5,7 @@
   left: 98px;
   top: 3036px;
   border-radius: 0px;
+  z-index: 1;
 
   border: 1px solid #e5e5e5;
   box-sizing: border-box;
@@ -94,6 +95,11 @@
   background: #014561;
 }
 
+.alfaiataria-btnn:hover {
+  background-color: #002c3f;
+  transition: all ease 0.3s;
+}
+
 .alfaiataria-btnn a {
   position: absolute;
   width: 165px;
@@ -112,8 +118,23 @@
   color: #e5e5e5;
 }
 
+.alfaiataria-image-linha {
+  position: absolute;
+  height: 464px;
+  width: 550px;
+  left: 658px;
+  top: -40px;
+  border-radius: 0px;
+  
+
+  border: 1px solid #1c86a4;
+  background-color: transparent;
+  box-sizing: border-box;
+}
+
 .alfaiataria-image img {
   position: absolute;
-  left: 678px;
-  top: -50px;
+  left: 8px;
+  top: -10px;
+  z-index: -1;
 }

@@ -4,6 +4,7 @@
   width: 123px;
   left: 622px;
   top: 4253px;
+
 }
 
 .contatos-title h1 {
@@ -129,6 +130,12 @@
   border: 1px solid #1c86a4;
 }
 
+.contatos-btn-esquerdo:hover {
+  background-color: transparent;
+  transition: all ease 0.3s;
+  border: 1px solid #BE9667;
+}
+
 .contatos-btn-esquerdo a {
   position: absolute;
   width: 92px;
@@ -185,6 +192,11 @@
   background: #014561;
 }
 
+.contatos-btn-direito:hover{
+  background-color: #015d85;
+  transition: all ease 0.3s;
+}
+
 .contatos-btn-direito a {
   position: absolute;
   width: 137px;
@@ -202,5 +214,3 @@
 
   color: #e5e5e5;
 }
-
-

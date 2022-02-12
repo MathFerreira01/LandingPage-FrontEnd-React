@@ -1,4 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
 
 * {
   margin: 0;
@@ -35,10 +36,6 @@ a:hover {
   letter-spacing: 4px;
 }
 
-header.whithe {
-  background: white;
-}
-
 nav {
   display: flex;
   justify-content: space-around;
@@ -61,6 +58,7 @@ nav {
 .nav-list li {
   letter-spacing: 3px;
   margin-left: 32px;
+  font-family: 'Lato', sans-serif;
 }
 
 .first-title {
@@ -145,8 +143,15 @@ nav {
   width: 330px;
   top: 230px;
   left: -114px;
+  border-radius: 2px;
 
   background: #014561;
+}
+
+.button-header:hover {
+  background-color: transparent;
+  transition: all ease 0.3s;
+  border: 1px solid #BE9667;
 }
 
 .button-header a {
@@ -167,3 +172,4 @@ nav {
 
   color: #e5e5e5;
 }
+

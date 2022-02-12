@@ -23,8 +23,10 @@ function Alfaiataria () {
             <div className='alfaiataria-btnn'>
                 <a href="#">Quero um orçamento</a>
             </div>
+            <div className='alfaiataria-image-linha'>
             <div className='alfaiataria-image'>
                 <img src={Image}></img>
+            </div>
             </div>
             
         </section>

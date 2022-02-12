@@ -5,7 +5,6 @@
   top: 1735px;
 
   background: #013145;
-  transform: rotate();
 }
 
 .condicoes-title {
@@ -14,14 +13,16 @@
   right: 69.77%;
   top: 100px;
   bottom: 60.83%;
+  Width: 595px;
+  Height: 64px;
 }
 
 .condicoes-title h1 {
   font-family: Cormorant;
   font-style: italic;
   font-weight: normal;
-  font-size: 25px;
-  line-height: 36px;
+  font-size: 53px;
+  line-height: 64px;
 
   color: #be9667;
 
@@ -33,13 +34,15 @@
   left: 12.3%;
   right: 69.77%;
   bottom: 60.83%;
+  Width: 245px;
+  Height: 36px;
 }
 
 .condicoes-sub-title h6 {
   font-family: Cormorant;
   font-style: italic;
   font-weight: normal;
-  font-size: 22px;
+  font-size: 25px;
   line-height: 36px;
 
   color: #be9667;
@@ -59,7 +62,7 @@
   font-family: Lato;
   font-style: normal;
   font-weight: 300;
-  font-size: 22px;
+  font-size: 21px;
   line-height: 26px;
 
   color: #c4c4c4;
@@ -74,6 +77,11 @@
 
   background: #be9667;
   border-radius: 2px;
+}
+
+.condicoes-bnt:hover {
+  background-color: #6d6d6d;
+  transition: all ease 0.3s;
 }
 
 .condicoes-bnt a {

@@ -42,7 +42,7 @@ function Home() {
         </div>
         <div>
           <div className="imagem-advogado-empresa"></div>
-          <div className="retangulo-azul">
+          <div className="home-background">
             <div className="segunda-imagem-advogado"></div>
           </div>
           <div className="nome-empresa">

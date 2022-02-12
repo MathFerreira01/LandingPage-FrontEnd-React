@@ -24,8 +24,10 @@ function Camisaria() {
       <div className="camisaria-btnn">
         <a href="#">Quero um orçamento</a>
       </div>
+      <div className="camisaria-image-linha">
       <div className="camisaria-image">
         <img src={Image}></img>
+      </div>
       </div>
     </section>
   );
