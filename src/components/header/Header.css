@@ -14,6 +14,11 @@
   top: 0px;
 }
 
+nav.white {
+  background-color: #fffefe;
+  background: linear-gradient(180deg, #9b9b9b 29.73%, rgb(211, 211, 211) 100%);
+  
+}
 
 a {
   color: #fff;
@@ -47,7 +52,6 @@ nav {
   position: fixed;
   z-index: 2;
 
-  transition: all ease 0.5s;
 }
 
 .nav-list {

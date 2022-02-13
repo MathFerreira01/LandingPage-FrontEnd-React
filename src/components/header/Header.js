@@ -1,12 +1,13 @@
-import "./styles.css";
+import './Header.css'
 
 import SVG from '../../assets/Vector (6).svg'
 
 function Header({white}) {
+
   return (
     <div className="body-header">
-      <header className={white ? 'whithe' : ''}>
-        <nav>
+      <header>
+        <nav className={white ? 'white' : ''}>
           <img className="nav-img" src={SVG} alt=""/>
           <a class="logo" alt="">Renee<br/>Trajar</a>
           <ul class="nav-list">
