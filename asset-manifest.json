@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Teste-FrontEnd-React/static/css/main.fc7168b7.css",
+    "main.js": "/Teste-FrontEnd-React/static/js/main.53f3aae6.js",
+    "static/media/camisa.png": "/Teste-FrontEnd-React/static/media/camisa.2588c20cf4754cae2a4f.png",
+    "static/media/Banner_3 1.png": "/Teste-FrontEnd-React/static/media/Banner_3 1.c23c66bdc16022d51846.png",
+    "static/media/1-0 1.png": "/Teste-FrontEnd-React/static/media/1-0 1.cc6e37cb1a2d0483de08.png",
+    "static/media/image-depoimentos.jpg": "/Teste-FrontEnd-React/static/media/image-depoimentos.a4eaa11c1dba8405447e.jpg",
+    "static/media/anzug-fuer-herren-mit-weste 1.png": "/Teste-FrontEnd-React/static/media/anzug-fuer-herren-mit-weste 1.d005fbc951ab0d62da2e.png",
+    "static/media/depositphotos_194623744-stock-photo-handsome-tailor-standing-crossed-arms 1.png": "/Teste-FrontEnd-React/static/media/depositphotos_194623744-stock-photo-handsome-tailor-standing-crossed-arms 1.78e3f1ec9a6e4ae4f88f.png",
+    "static/media/advogado2.png": "/Teste-FrontEnd-React/static/media/advogado2.0660e277f9f68d5bcc32.png",
+    "static/media/advogado1.png": "/Teste-FrontEnd-React/static/media/advogado1.e2dfbcaa2248077c21ef.png",
+    "static/media/Ellipse 89.png": "/Teste-FrontEnd-React/static/media/Ellipse 89.f2fd8874fc041a54cc35.png",
+    "static/media/Vector (5).svg": "/Teste-FrontEnd-React/static/media/Vector (5).c63c4fe52f76534ab6d6eb2403e92fb2.svg",
+    "static/media/Vector (4).svg": "/Teste-FrontEnd-React/static/media/Vector (4).18e5fd4cb81c887f33386bbca36a87bf.svg",
+    "static/media/Vector (3).svg": "/Teste-FrontEnd-React/static/media/Vector (3).95a095e5ef80d664f5ba8e1678546108.svg",
+    "index.html": "/Teste-FrontEnd-React/index.html",
+    "static/media/Vector (6).svg": "/Teste-FrontEnd-React/static/media/Vector (6).2131a73928b42ad48c2c728a4948e662.svg",
+    "main.fc7168b7.css.map": "/Teste-FrontEnd-React/static/css/main.fc7168b7.css.map",
+    "main.53f3aae6.js.map": "/Teste-FrontEnd-React/static/js/main.53f3aae6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc7168b7.css",
+    "static/js/main.53f3aae6.js"
+  ]
+}
